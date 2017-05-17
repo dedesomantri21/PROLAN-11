@@ -1,0 +1,5 @@
+Menurut saya Abstraksi dan Encapsulation penting dan akan berguna,yang pertama Abtraksi bisa membuat objek yang rumit menjadi
+sederhana dengan membuatnya menjadi tunggal ,dan orang lain tidak perlu tau apa yang terjadi apa yang terjadi di belakang program (Prosesnya).
+Sedangkan Encapsulation berguna untuk menyembuyikan informasi,dimana perlindungan akan berguna untuk objek internal.
+manfaatnya lainya dimana kita dapat memodifikasi sumber kode tanpa akan mempegaruhi bagian bagian lain dari sistem,dimana akan mempermudah 
+mendistrubisikan objek objek dari sistem.
