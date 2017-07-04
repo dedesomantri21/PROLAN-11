@@ -1,0 +1,34 @@
+Nama : Dede Somantri
+NIM  : 10113417
+
+
+---------------------------------------------------------------------------------------
+Pertemuan| Materi               | Penjelesan                      |Folder Github             
+---------------------------------------------------------------------------------------
+1        |Pegenalan		|-pengenalan Java		  |Tugas1
+				 -membuat helo Word di java 	  |
+
+2        |pengenalan OOP	|-Pegenalan & Konsep Dasar OOP    |Tugas2                                 
+                                 -Membuat Input Dan output	  |
+3	 |Kelas Dan Objeck	|-Belajar Tentang Tipe data	  |Tugas3
+
+4	 |Method Dan Atribut	|-Jenis Tipe Data		  |Tugas4
+                                 -Objek (Bentukan)		  |
+
+5        |Inheritance		|Pewarisan (Inheritance)	  |Tugas7 
+                                 Keyword Super		          |Tugas8
+6	 |Overriding		|Aturan Overeding 	          |Tugas10
+                                 Keyword Super		          | 
+
+7	 |Polimorfisme		|Studi Kasus 1 - Kalkulator       |Tugas11
+
+9	 |Abstraction		|Modifiers dan Method	          |Tugas12/Tugas11
+                                 Geter Dan Setter	    	  |
+10	 |Encapsulation		|Konsep Encaplusain pada OOP	  |Dede_Somantri-10113417-Encapsulasion	
+11	 |Interface		|Deklarasi Interface & Aturan	  |Tugas12	
+12	 |Generic Class		|				  |Tugas13	
+13	 |Generic Method	|				  |	
+14	 |Package		|				  |Tugas15	
+15	 |Diskusi		|				  |	
+
+
